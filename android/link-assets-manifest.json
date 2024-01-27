@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Gruppo-Regular.ttf",
+      "sha1": "b4ccea9e838d0c630e43595b987d3f1cfbcca028"
+    },
+    {
+      "path": "assets/fonts/SingleDay-Regular.ttf",
+      "sha1": "65ea3c403dcb3887ca9ffd971645efddf1a60f5a"
+    }
+  ]
+}
